@@ -1,0 +1,14 @@
+E:\back_end.net\DO1\datatype1\bin\Debug\net9.0\datatype1.exe
+E:\back_end.net\DO1\datatype1\bin\Debug\net9.0\datatype1.deps.json
+E:\back_end.net\DO1\datatype1\bin\Debug\net9.0\datatype1.runtimeconfig.json
+E:\back_end.net\DO1\datatype1\bin\Debug\net9.0\datatype1.dll
+E:\back_end.net\DO1\datatype1\bin\Debug\net9.0\datatype1.pdb
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.AssemblyInfoInputs.cache
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.AssemblyInfo.cs
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.csproj.CoreCompileInputs.cache
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.dll
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\refint\datatype1.dll
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.pdb
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\datatype1.genruntimeconfig.cache
+E:\back_end.net\DO1\datatype1\obj\Debug\net9.0\ref\datatype1.dll

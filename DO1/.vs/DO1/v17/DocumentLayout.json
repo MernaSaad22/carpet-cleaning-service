@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\back_end.net\\DO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F069EABB-3637-4205-8D35-E438E3BAB94C}|datatype1\\datatype1.csproj|e:\\back_end.net\\do1\\datatype1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069EABB-3637-4205-8D35-E438E3BAB94C}|datatype1\\datatype1.csproj|solutionrelative:datatype1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D3BF93-B6EB-4AFB-AFC6-92B0348537D9}|project1\\project1.csproj|e:\\back_end.net\\do1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D3BF93-B6EB-4AFB-AFC6-92B0348537D9}|project1\\project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\back_end.net\\DO1\\datatype1\\Program.cs",
+              "RelativeDocumentMoniker": "datatype1\\Program.cs",
+              "ToolTip": "E:\\back_end.net\\DO1\\datatype1\\Program.cs",
+              "RelativeToolTip": "datatype1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:19:25.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\back_end.net\\DO1\\project1\\Program.cs",
+              "RelativeDocumentMoniker": "project1\\Program.cs",
+              "ToolTip": "E:\\back_end.net\\DO1\\project1\\Program.cs",
+              "RelativeToolTip": "project1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:41:29.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

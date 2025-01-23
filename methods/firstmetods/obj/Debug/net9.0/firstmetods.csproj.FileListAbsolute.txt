@@ -1,0 +1,14 @@
+E:\back_end.net\methods\firstmetods\bin\Debug\net9.0\firstmetods.exe
+E:\back_end.net\methods\firstmetods\bin\Debug\net9.0\firstmetods.deps.json
+E:\back_end.net\methods\firstmetods\bin\Debug\net9.0\firstmetods.runtimeconfig.json
+E:\back_end.net\methods\firstmetods\bin\Debug\net9.0\firstmetods.dll
+E:\back_end.net\methods\firstmetods\bin\Debug\net9.0\firstmetods.pdb
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.AssemblyInfoInputs.cache
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.AssemblyInfo.cs
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.csproj.CoreCompileInputs.cache
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.dll
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\refint\firstmetods.dll
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.pdb
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\firstmetods.genruntimeconfig.cache
+E:\back_end.net\methods\firstmetods\obj\Debug\net9.0\ref\firstmetods.dll

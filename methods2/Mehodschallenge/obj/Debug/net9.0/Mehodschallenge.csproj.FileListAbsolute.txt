@@ -1,0 +1,14 @@
+E:\back_end.net\methods2\Mehodschallenge\bin\Debug\net9.0\Mehodschallenge.exe
+E:\back_end.net\methods2\Mehodschallenge\bin\Debug\net9.0\Mehodschallenge.deps.json
+E:\back_end.net\methods2\Mehodschallenge\bin\Debug\net9.0\Mehodschallenge.runtimeconfig.json
+E:\back_end.net\methods2\Mehodschallenge\bin\Debug\net9.0\Mehodschallenge.dll
+E:\back_end.net\methods2\Mehodschallenge\bin\Debug\net9.0\Mehodschallenge.pdb
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.AssemblyInfoInputs.cache
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.AssemblyInfo.cs
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.csproj.CoreCompileInputs.cache
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.dll
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\refint\Mehodschallenge.dll
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.pdb
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\Mehodschallenge.genruntimeconfig.cache
+E:\back_end.net\methods2\Mehodschallenge\obj\Debug\net9.0\ref\Mehodschallenge.dll
