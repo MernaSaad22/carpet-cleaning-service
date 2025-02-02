@@ -1,0 +1,15 @@
+E:\back_end.net\oopD01\Player\bin\Debug\net9.0\Player.exe
+E:\back_end.net\oopD01\Player\bin\Debug\net9.0\Player.deps.json
+E:\back_end.net\oopD01\Player\bin\Debug\net9.0\Player.runtimeconfig.json
+E:\back_end.net\oopD01\Player\bin\Debug\net9.0\Player.dll
+E:\back_end.net\oopD01\Player\bin\Debug\net9.0\Player.pdb
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.AssemblyInfoInputs.cache
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.AssemblyInfo.cs
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.csproj.CoreCompileInputs.cache
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.sourcelink.json
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.dll
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\refint\Player.dll
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.pdb
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\Player.genruntimeconfig.cache
+E:\back_end.net\oopD01\Player\obj\Debug\net9.0\ref\Player.dll
