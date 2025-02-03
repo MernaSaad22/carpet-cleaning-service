@@ -1,0 +1,15 @@
+E:\back_end.net\oopDO3\challenge2\bin\Debug\net9.0\challenge2.exe
+E:\back_end.net\oopDO3\challenge2\bin\Debug\net9.0\challenge2.deps.json
+E:\back_end.net\oopDO3\challenge2\bin\Debug\net9.0\challenge2.runtimeconfig.json
+E:\back_end.net\oopDO3\challenge2\bin\Debug\net9.0\challenge2.dll
+E:\back_end.net\oopDO3\challenge2\bin\Debug\net9.0\challenge2.pdb
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.AssemblyInfoInputs.cache
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.AssemblyInfo.cs
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.csproj.CoreCompileInputs.cache
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.sourcelink.json
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.dll
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\refint\challenge2.dll
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.pdb
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\challenge2.genruntimeconfig.cache
+E:\back_end.net\oopDO3\challenge2\obj\Debug\net9.0\ref\challenge2.dll

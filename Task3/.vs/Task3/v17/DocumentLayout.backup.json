@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
               "ToolTip": "E:\\back_end.net\\Task3\\LibrarySystem\\Program.cs",
               "RelativeToolTip": "LibrarySystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:01:27.97Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LibrarySystem",
+              "Title": "LibrarySystem.csproj",
               "DocumentMoniker": "E:\\back_end.net\\Task3\\LibrarySystem\\LibrarySystem.csproj",
               "RelativeDocumentMoniker": "LibrarySystem\\LibrarySystem.csproj",
               "ToolTip": "E:\\back_end.net\\Task3\\LibrarySystem\\LibrarySystem.csproj",
               "RelativeToolTip": "LibrarySystem\\LibrarySystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T17:01:18.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T17:01:18.047Z"
             }
           ]
         }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\back_end.net\\oopDO3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7248618-86EA-4D8B-9561-1B8ABBF80D6F}|challenge2\\challenge2.csproj|e:\\back_end.net\\oopdo3\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7248618-86EA-4D8B-9561-1B8ABBF80D6F}|challenge2\\challenge2.csproj|solutionrelative:challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C64E4A-4419-495D-9CB7-C0C9B45108BC}|challeng1\\challeng1.csproj|e:\\back_end.net\\oopdo3\\challeng1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C64E4A-4419-495D-9CB7-C0C9B45108BC}|challeng1\\challeng1.csproj|solutionrelative:challeng1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\back_end.net\\oopDO3\\challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "challenge2\\Program.cs",
+              "ToolTip": "E:\\back_end.net\\oopDO3\\challenge2\\Program.cs*",
+              "RelativeToolTip": "challenge2\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:56:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\back_end.net\\oopDO3\\challeng1\\Program.cs",
+              "RelativeDocumentMoniker": "challeng1\\Program.cs",
+              "ToolTip": "E:\\back_end.net\\oopDO3\\challeng1\\Program.cs",
+              "RelativeToolTip": "challeng1\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:32:14.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

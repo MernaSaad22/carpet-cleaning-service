@@ -1,0 +1,15 @@
+E:\back_end.net\oopDO3\challeng1\bin\Debug\net9.0\challeng1.exe
+E:\back_end.net\oopDO3\challeng1\bin\Debug\net9.0\challeng1.deps.json
+E:\back_end.net\oopDO3\challeng1\bin\Debug\net9.0\challeng1.runtimeconfig.json
+E:\back_end.net\oopDO3\challeng1\bin\Debug\net9.0\challeng1.dll
+E:\back_end.net\oopDO3\challeng1\bin\Debug\net9.0\challeng1.pdb
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.GeneratedMSBuildEditorConfig.editorconfig
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.AssemblyInfoInputs.cache
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.AssemblyInfo.cs
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.csproj.CoreCompileInputs.cache
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.sourcelink.json
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.dll
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\refint\challeng1.dll
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.pdb
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\challeng1.genruntimeconfig.cache
+E:\back_end.net\oopDO3\challeng1\obj\Debug\net9.0\ref\challeng1.dll
